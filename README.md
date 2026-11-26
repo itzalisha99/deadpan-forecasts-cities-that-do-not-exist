@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
-[![Rank](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist/itzalisha99/deadpan-forecasts-cities-that-do-not-exist/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
-[![Reward](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist/itzalisha99/deadpan-forecasts-cities-that-do-not-exist/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
+[![make.fun · u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
+[![rank](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist/itzalisha99/deadpan-forecasts-cities-that-do-not-exist/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
+[![reward](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist/itzalisha99/deadpan-forecasts-cities-that-do-not-exist/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-not-exist)
 
 # Deadpan Forecasts for Cities That Do Not Exist
 
